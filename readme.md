@@ -11,7 +11,7 @@ A classic Flappy Bird game implementation built with vanilla HTML5, CSS3, and Ja
 - **Collision detection** - Precise collision system between bird and pipes
 - **Infinite gameplay** - Pipes generate continuously for endless fun
 
-### Scoring System
+### System
 - **Real-time scoring** - Earn points by successfully passing through pipes
 - **High score tracking** - Your best score is saved and persists between sessions
 - **Score display** - Current score and high score shown during gameplay
@@ -34,7 +34,7 @@ To run the game locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kartikeya042/Flappy-Bird-Game.git
+   git clone https://github.com/kartikeya042/flappy-bird-game.git
    ```
 
 2. **Navigate to the project folder:**
